@@ -2,7 +2,7 @@
 I'm **Seoyeon Heo**, undergraduate at 🏫 Seoul Natl' Univ, Computer Science & Engineering Major.  
 
 #### If you're Interested . . . 
-* 🚂 find my toy projects **Scream Jar** at my <a href="https://github.com/h-seo-n/Scream-Jar">repository</a>
+* 🚂 find my toy projects **Scream Jar**(c++, Qt) at my <a href="https://github.com/h-seo-n/Scream-Jar">repository</a>
 * 💻 check out my study logs at my velog! : <a href="https://velog.io/@h-seo-n/posts">velog link</a>
 * 🔖 take a look at my other literary writings at my personal blog : <a href="https://blog.naver.com/xersxe_y"></a>
 
