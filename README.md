@@ -1,4 +1,12 @@
 ## Hi there 👋
+I'm **Seoyeon Heo**, undergraduate at 🏫 Seoul Natl' Univ, Computer Science & Engineering Major.  
+* 🚂 find my toy projects **Scream Jar** at my <a href="https://github.com/h-seo-n/Scream-Jar">repository</a>
+* 💻 check out my study logs at my velog! : <a href="https://velog.io/@h-seo-n/posts">velog link</a>
+* 🔖 take a look at my other literary writings at my personal blog : <a href="https://blog.naver.com/xersxe_y"></a>
+<br>
+* 🌱 currently learning front web (JavaScript, React, NodeJS)
+* 🗂️ working on a simple web card maker project!
+* 📫 reach me by email : best3487@snu.ac.kr
 
 <!--
 **h-seo-n/h-seo-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
