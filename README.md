@@ -1,6 +1,5 @@
-## Hi there 👋
-I'm **Seoyeon Heo**, undergraduate at 🏫 Seoul Natl' Univ, Computer Science & Engineering Major.  
-See my full, interactive and handmade introduction at the following link! ➡️ <a href="https://seoyonheo.vercel.app/#home">Portfolio</a>
+undergraduate at 🏫 Seoul Natl' Univ, Computer Science & Engineering Major.  
+Personal web ➡️ <a href="https://seoyonheo.vercel.app/#home">Portfolio</a>
 
 #### If you're Interested . . . 
 * 🚂 find my toy projects **Scream Jar**(c++, Qt) at my <a href="https://github.com/h-seo-n/Scream-Jar">repository</a>
