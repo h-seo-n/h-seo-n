@@ -8,9 +8,10 @@ Personal web ➡️ <a href="https://seoyonheo.vercel.app/#home">Portfolio</a>
 
 
 #### I'm currently . . .
-* 🌱 currently learning front web (JavaScript, React, NodeJS)
-* 🗂️ working on a simple web card maker project!
-* 📫 reach me by email : best3487@snu.ac.kr
+* 🌱 Frontend developer & Project Manager in [Waffle Studio](https://github.com/wafflestudio)
+* 📖 working as undergraduate RA in [Computational Clinical Science lab](https://github.com/CCS-Lab)!
+
+> 📫 reach me by email : best3487@snu.ac.kr
 
 <!--
 **h-seo-n/h-seo-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
