@@ -1,7 +1,7 @@
 undergraduate at 🏫 Seoul Natl' Univ, Computer Science & Engineering Major.  
 
 ### I'm currently . . .
-* 🌱 **Frontend developer** & **Project Manager** in [Waffle Studio](https://github.com/wafflestudio)
+* 🧇 **Frontend developer** & **Project Manager** in [Waffle Studio](https://github.com/wafflestudio)
 * 📖 working as undergraduate RA in [Computational Clinical Science lab](https://github.com/CCS-Lab)
 
 > 📫 reach me by email : best3487@snu.ac.kr
