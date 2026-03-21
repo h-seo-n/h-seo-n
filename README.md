@@ -27,7 +27,7 @@ undergraduate at 🏫 Seoul Natl' Univ, Computer Science & Engineering Major.
 | Area  | Framework  |
 |---|---|
 | Frontend | React, TypeScript, Styled Components, CSS Module  |
-| App Development | React Native, Android Studio, XCode |
+| App Development | React Native |
 | Programming Languages | C++, Python, Java |
 | Database | PostgreSQL, MySQL |
 | Others | Git, Render |
