@@ -6,13 +6,34 @@ undergraduate at 🏫 Seoul Natl' Univ, Computer Science & Engineering Major.
 
 > 📫 reach me by email : best3487@snu.ac.kr
 
+<hr />
 
 ### My Projects
-* `AreUComing(오고있니)` ([repo](https://github.com/h-seo-n/wackathon-front) / [blog](https://velog.io/@h-seo-n/%ED%95%B4%EC%BB%A4%ED%86%A4-3%EB%93%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A7%84%ED%96%89-%ED%9B%84%EA%B8%B0)) : Frontend Dev, PM, UI/UX design
-* `Hangsha(행샤)` ([repo](https://github.com/h-seo-n/hangsha-front) / [prod](https://hangsha.site)) : Frontend Dev, PM
-* `Personal Memorial Web (내일의 나에게)` ([repo](https://github.com/h-seo-n/personal-memorial-web?tab=readme-ov-file) / [video archive](https://www.youtube.com/watch?v=GL5oCBnTaKY) / [prod](https://personal-memorial-snu.vercel.app/)) : Frontend Dev
-* `Scream Jar (고함항아리)` (repo: [front](https://github.com/h-seo-n/Scream-Jar), [server](https://github.com/h-seo-n/scream-jar-server) / [blog](https://velog.io/@h-seo-n/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B2%AB-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B3%A0%ED%95%A8%ED%95%AD%EC%95%84%EB%A6%AC-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EB%A1%9D)) : developed from scratch, entirely by self
+* `AreUComing(오고있니)` ([repo](https://github.com/h-seo-n/wackathon-front) / [blog](https://velog.io/@h-seo-n/%ED%95%B4%EC%BB%A4%ED%86%A4-3%EB%93%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A7%84%ED%96%89-%ED%9B%84%EA%B8%B0)) :
+  * Frontend Dev, PM, UI/UX design
+* `Hangsha(행샤)` ([repo](https://github.com/h-seo-n/hangsha-front) / [prod](https://hangsha.site)) :
+  * Frontend Dev, PM
+* `Personal Memorial Web (내일의 나에게)` ([repo](https://github.com/h-seo-n/personal-memorial-web?tab=readme-ov-file) / [video archive](https://www.youtube.com/watch?v=GL5oCBnTaKY) / [prod](https://personal-memorial-snu.vercel.app/)) :
+  * Frontend Dev
+* `Cocomo(코코모)` ([store link](https://play.google.com/store/apps/details?id=com.ccslab.cocomo)) :
+  * app upgrade / maintenance / distribution (React Native)
+* `Scream Jar (고함항아리)` (repo: [front](https://github.com/h-seo-n/Scream-Jar), [server](https://github.com/h-seo-n/scream-jar-server) / [blog](https://velog.io/@h-seo-n/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B2%AB-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B3%A0%ED%95%A8%ED%95%AD%EC%95%84%EB%A6%AC-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EB%A1%9D)) :
+  * developed from scratch, entirely by self
 * A Self-Introductory web : <a href="https://seoyonheo.vercel.app/#home">Link</a>
+
+<hr />
+
+### Tech Spec
+| Area  | Framework  |
+|---|---|
+| Frontend | React, TypeScript, Styled Components, CSS Module  |
+| App Development | React Native, Android Studio, XCode |
+| Programming Languages | C++, Python, Java |
+| Database | PostgreSQL, MySQL |
+| Others | Git, Render |
+
+
+<hr />
 
 ### If you're Interested . . . 
 * 🚂 Check out my [repository list](https://github.com/h-seo-n?tab=repositories) 
